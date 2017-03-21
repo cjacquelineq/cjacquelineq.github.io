@@ -1,3 +1,6 @@
+## About Me
+I am a fourth year student in UC Davis major in Statistics and Economics. I am interested in data science.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cjacquelineq/cjacquelineq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

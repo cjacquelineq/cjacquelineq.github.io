@@ -5,7 +5,7 @@
 
 ## Projects
 - STA 141A Project
-- STA 141B Project
+- <a href="http://google.com">STA 141B Project</a>
 
 ## Welcome to GitHub Pages
 

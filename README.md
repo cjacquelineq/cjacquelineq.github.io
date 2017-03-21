@@ -5,7 +5,7 @@
 
 ## Projects
 - STA 141A Project
-- <a href="http://google.com">STA 141B Project</a>
+- <a href="test/assignment2.ipynb">STA 141B Project</a>
 
 ## Welcome to GitHub Pages
 

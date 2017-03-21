@@ -1,5 +1,10 @@
 ## About Me
-I am a fourth year student in UC Davis major in Statistics and Economics. I am interested in data science.
+I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).
+I am interested in data science.
+I program in R and python.
+
+## Projects
+
 
 ## Welcome to GitHub Pages
 

@@ -2,19 +2,19 @@
 
 ### About Me
 
-<img align="left" src="http://cjacquelineq.github.io/profile.jpg" width="240">
+- <img align="left" src="http://cjacquelineq.github.io/profile.jpg" width="240">
 
-  - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).  
-  - I am from Guangdong, China. I currently live in Davis, California, USA.
-  - I am interested in Data Science and Machine Learning and I took some related courses:  
-    [STA 141A: Fundamentals of Statistical Data Science](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141A.html)  
-    [STA 141B: Data & Web Technologies for Data Analysis](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141B.html)  
-  - I program in R, C++, C and Python.
-
-
+- I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).  
+- I am from Guangdong, China. I currently live in Davis, California, USA.
+- I am interested in Data Science and Machine Learning and I took some related courses:  
+  [STA 141A: Fundamentals of Statistical Data Science](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141A.html)  
+  [STA 141B: Data & Web Technologies for Data Analysis](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141B.html)  
+- I program in R, C++, C and Python.
 
 
-
+  
+  
+  
 
 ### Projects  
 #### STA 141B Project

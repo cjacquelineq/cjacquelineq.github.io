@@ -1,9 +1,8 @@
-# Jingqi Chen's Data Science Portfolio
+## Welcome to Jingqi Chen's Data Science Portfolio!
 
 ## About Me
 
-<img src="http://cjacquelineq.github.io/profile.jpg" width="500">  
-  Jingqi Chen
+<img src="http://cjacquelineq.github.io/profile.jpg" width="300">
 
 - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).   
 - I am interested in data science.

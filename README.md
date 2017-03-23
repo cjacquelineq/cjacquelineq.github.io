@@ -1,6 +1,7 @@
 ## About Me
 
-<img src="http://cjacquelineq.github.io/profile.png" width="60">
+<img src="http://cjacquelineq.github.io/Profile.png" width="120">
+Jingqi Chen
 
 - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).   
 - I am interested in data science.

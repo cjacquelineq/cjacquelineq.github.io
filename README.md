@@ -2,7 +2,7 @@
 - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).
 - I am interested in data science.
 - I program in R and python.
-![alt tag](http://cjacquelineq.github.io/profile.jpg)
+![alt tag](http://cjacquelineq.github.io/profile.png)
 
 ## Projects
 - <a href="https://cjacquelineq.github.io/ProjectReport/ProjectReport.html">STA 141A Project</a>

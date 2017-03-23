@@ -1,6 +1,8 @@
 ## Jingqi Chen's Data Science Portfolio
 
 ### About Me
+<img align="left" src="http://cjacquelineq.github.io/profile.jpg" width="250">
+
 - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).  
 - I am from Guangdong, China. I currently live in Davis, California, USA.
 - I am interested in Data Science and Machine Learning and I took some related courses:  
@@ -8,9 +10,9 @@
   [STA 141B: Data & Web Technologies for Data Analysis](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141B.html)  
 - I program in R, C++, C and Python.
 
-<p align="right">
-<img src="http://cjacquelineq.github.io/profile.jpg" width="250">
-</p>
+
+
+
 
 
 ### Projects  

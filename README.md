@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="http://cjacquelineq.github.io/profile.jpg" width="120">
+<img src="http://cjacquelineq.github.io/profile.jpg" width="240">
 Jingqi Chen
 
 - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).   

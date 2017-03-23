@@ -2,7 +2,7 @@
 
 ### About Me
 
-  <img align="left" src="http://cjacquelineq.github.io/profile.jpg" width="240">  
+   <img align="left" src="http://cjacquelineq.github.io/profile.jpg" width="240">  
 
 - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).  
 - I am from Guangdong, China. I currently live in Davis, California, USA.
@@ -15,7 +15,7 @@
   
   
   
-
+  
 ### Projects  
 #### STA 141B Project
 - <a href="https://cjacquelineq.github.io/STA141B-Project-House-Price/STA+141B+Project+House+Price.html"> Race, School Ratings, Crime and Real Estate: What affects home price in California?  </a>   Mar 2017  

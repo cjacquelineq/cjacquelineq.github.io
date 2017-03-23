@@ -1,10 +1,9 @@
 ## Jingqi Chen's Data Science Portfolio
 
 ### About Me
-
+<p align="right">
 <img src="http://cjacquelineq.github.io/profile.jpg" width="250">
-
-Jingqi Chen
+</p>
 
 - I am a fourth year student at UC Davis major in Statistics and Economics (Degree expected in June 2017).  
 - I am from Guangdong, China. I currently live in Davis, California, USA.

@@ -5,7 +5,7 @@
 
 ## Projects
 - STA 141A Project
-- <a href="https://cjacquelineq.github.io/test/assignment2.html">STA 141B Project</a>
+- <a href="https://cjacquelineq.github.io/STA141B-Project-House-Price/Total.html">STA 141B Project</a>
 
 ## Welcome to GitHub Pages
 

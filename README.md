@@ -20,6 +20,8 @@ Jingqi Chen
 
 This project focus on the house price in California and the factor that affact house price. We conducted this project researching the relationship between public school rating and racial composition and their influences in home prices. Moreover, we examine the crime occurrence and house price. And in the end, use web scraping to predict the trend of the house price.  
 
+Group member: [Ka Woon Tam](https://kata0107.github.io/), [Yili Wang](http://yilimkad.github.io), [Weizhuo Xiong](https://wzxiong.github.io/)  
+
 #### STA 141A Project
 - <a href="https://cjacquelineq.github.io/ProjectReport.pdf"> World GDP Growth and Population Growth Analysis  </a>   Dec 2016  
 

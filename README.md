@@ -4,8 +4,8 @@
 - I program in R and python.
 
 ## Projects
-- <a href="https://cjacquelineq.github.io/ProjectReport.html">STA 141A Project</a>
-- <a href="https://cjacquelineq.github.io/STA141B-Project-House-Price/Total.html">STA 141B Project</a>
+- <a href="https://cjacquelineq.github.io/ProjectReport/ProjectReport.html">STA 141A Project</a>
+- <a href="https://cjacquelineq.github.io/STA141B-Project-House-Price/STA+141B+Project+House+Price.html">STA 141B Project</a>
 
 ## Welcome to GitHub Pages
 
